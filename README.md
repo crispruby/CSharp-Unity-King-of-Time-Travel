@@ -16,9 +16,8 @@ King of Time Travel includes a variety of mechanics designed to create a fun and
 ## Web Builds 🌐
 Play King of Time Travel directly in your browser:
 
-Itch.io: https://captain-garneto.itch.io/king-of-time-travel
-
-Unity Play: https://play.unity.com/en/games/73f871f1-8ae0-4ae1-8e36-ec0e8abc7d4f/king-of-time-travel
+- [**Itch Games**](https://captain-garneto.itch.io/king-of-time-travel)
+- [**Unity Play**](https://play.unity.com/en/games/73f871f1-8ae0-4ae1-8e36-ec0e8abc7d4f/king-of-time-travel)
 
 ## Notes 📘
 This project was created to practice 2D character controllers, enemy interactions, hazard logic, keystone and door mechanics, and scene transitions between different time periods. It also includes animation work and level design, forming part of my ongoing development as a Unity programmer and game designer.
@@ -26,11 +25,9 @@ This project was created to practice 2D character controllers, enemy interaction
 ## Author 👤
 Daniel Anthony Rozek
 
-Portfolio: https://crispruby.github.io/
-
-LinkedIn: https://www.linkedin.com/in/danielrozek/
-
-GitHub: https://github.com/crispruby
+[**Portfolio**](https://crispruby.github.io/), 
+[**LinkedIn**](https://www.linkedin.com/in/danielrozek/), 
+[**GitHub**](https://github.com/crispruby)
 
 ## License 📄
 This project is open‑source for educational and portfolio use.
