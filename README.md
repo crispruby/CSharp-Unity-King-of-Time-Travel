@@ -20,13 +20,6 @@ Itch.io: https://captain-garneto.itch.io/king-of-time-travel
 
 Unity Play: https://play.unity.com/en/games/73f871f1-8ae0-4ae1-8e36-ec0e8abc7d4f/king-of-time-travel
 
-## How to Run 🛠
-Open the project in Unity
-
-Load the main scene
-
-Press Play
-
 ## Notes 📘
 This project was created to practice 2D character controllers, enemy interactions, hazard logic, keystone and door mechanics, and scene transitions between different time periods. It also includes animation work and level design, forming part of my ongoing development as a Unity programmer and game designer.
 
