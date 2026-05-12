@@ -31,6 +31,7 @@ Built with Unity and C# scripting
 ## Web Builds 🌐
 Play King of Time Travel directly in your browser:
 Itch.io: https://captain-garneto.itch.io/king-of-time-travel
+
 Unity Play: https://play.unity.com/en/games/73f871f1-8ae0-4ae1-8e36-ec0e8abc7d4f/king-of-time-travel
 
 ## How to Run 🛠
@@ -53,7 +54,9 @@ It is part of my ongoing development as a Unity programmer and game designer.
 Daniel Anthony Rozek
 
 Portfolio: https://crispruby.github.io/
+
 LinkedIn: https://www.linkedin.com/in/danielrozek/
+
 GitHub: https://github.com/crispruby
 
 ## License 📄
