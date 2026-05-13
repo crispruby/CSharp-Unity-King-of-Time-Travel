@@ -31,3 +31,8 @@ Daniel Anthony Rozek
 
 ## License 📄
 This project is open‑source for educational and portfolio use.
+
+## Screenshot Gallery 📸
+
+<img src="images/KingOfTime1.png" width="100%">
+<img src="images/KingOfTime2.png" width="100%">
